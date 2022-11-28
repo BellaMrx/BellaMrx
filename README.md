@@ -7,12 +7,12 @@
  ---
 
  🧰 Toolbox
- ![Logo](images/html-1.svg) ![Logo](images/css-3.svg) ![Logo](images/javascript-1.svg) ![Logo](images/nodejs-2.svg) ![Logo](images/react-2.svg) ![Logo](images/php-logo-only-letter.svg) ![Logo](images/mysql-3.svg) ![Logo](images/python-4.svg) ![Logo](images/c.svg)
+
 
  ---
 
  ## &#x1f4c8; My GitHub Stats
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<BellaMrx>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Bella_Mrx>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<BellaMrx>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Bella_Mrx>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
