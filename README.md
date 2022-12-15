@@ -16,7 +16,7 @@
     - [WebDevelopment_Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
     
  * Other:
-    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - Game only in HTML, CSS, JavaScript
+    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game only in HTML, CSS, JavaScript
     - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
     - [Fortune cookie generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
 
