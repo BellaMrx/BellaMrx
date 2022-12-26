@@ -25,7 +25,7 @@
  * Other:
    - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
    - [Fortune cookie generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
-   - [Calculator](https://github.com/BellaMrx/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript
+   - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript
 
 
 
