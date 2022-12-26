@@ -13,12 +13,19 @@
 
  ## My GitHub projects:
  * Tutorials:
-    - [WebDevelopment_Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
-    
+   - [WebDevelopment_Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
+
+ * Games:
+   - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game only in HTML, CSS, JavaScript
+   - [Breakout](https://github.com/Projects-Games-HTML-CSS-JS/Breakout) - game only in HTML, CSS, JavaScript 
+   - [Ping Pong](https://github.com/Projects-Games-HTML-CSS-JS/Ping-Pong) - game only in HTML, CSS, JavaScript 
+   - [Snake](https://github.com/Projects-Games-HTML-CSS-JS/Snake) - game only in HTML, CSS, JavaScript 
+   - [Tic Tac Toe](https://github.com/Projects-Games-HTML-CSS-JS/Tic_Tac_Toe) - game only in HTML, CSS, JavaScript 
+
  * Other:
-    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game only in HTML, CSS, JavaScript
-    - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
-    - [Fortune cookie generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
+   - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
+   - [Fortune cookie generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
+   - [Calculator](https://github.com/BellaMrx/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript
 
 
 
