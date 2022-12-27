@@ -35,8 +35,8 @@
 
  ## &#x1f4c8; My GitHub Stats
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=BellaMrx&theme=radical)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=BellaMrx&theme=dark)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BellaMrx&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BellaMrx&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellaMrx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellaMrx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
