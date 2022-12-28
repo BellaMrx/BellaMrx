@@ -29,7 +29,7 @@
 
 
 
- #### On my Twitter account you can find more useful material about web development [@bella_mrx](https://twitter.com/bella_mrx)
+ #### On my Twitter account you can find more useful stuff about web development [@bella_mrx](https://twitter.com/bella_mrx)
 
  ---
 
@@ -40,3 +40,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BellaMrx&hide=java,html,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellaMrx&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
