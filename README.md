@@ -29,7 +29,7 @@
 
 
 
- #### On my Twitter account you can find more useful stuff about web development [@bella_mrx](https://twitter.com/bella_mrx)
+ #### On my Twitter account [@bella_mrx](https://twitter.com/bella_mrx) you can find more useful stuff about web development.
 
  ---
 
