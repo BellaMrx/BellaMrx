@@ -13,7 +13,7 @@
 
  ## My GitHub projects:
  * Tutorials:
-   - [WebDevelopment_Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
+   - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
 
  * Games:
    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game only in HTML, CSS, JavaScript
@@ -41,4 +41,4 @@
 
  [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellaMrx&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+
