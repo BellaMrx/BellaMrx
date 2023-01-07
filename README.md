@@ -18,7 +18,7 @@
  * Games:
    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game only in HTML, CSS, JavaScript
    - [Breakout](https://github.com/Projects-Games-HTML-CSS-JS/Breakout) - game only in HTML, CSS, JavaScript 
-   - [Ping Pong](https://github.com/Projects-Games-HTML-CSS-JS/Ping-Pong) - game only in HTML, CSS, JavaScript 
+   - [Ping Pong](https://github.com/Projects-Games-HTML-CSS-JS/Ping-Pong) -  game only in HTML, CSS, JavaScript 
    - [Snake](https://github.com/Projects-Games-HTML-CSS-JS/Snake) - game only in HTML, CSS, JavaScript 
    - [Tic Tac Toe](https://github.com/Projects-Games-HTML-CSS-JS/Tic_Tac_Toe) - game only in HTML, CSS, JavaScript 
 
