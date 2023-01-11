@@ -13,7 +13,16 @@
 
  ## My GitHub projects:
  * Tutorials:
-   - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
+   - [HTML Guide](https://github.com/BellaMrx/WebDevelopment_Basics) - Detailed guide about HTML5 (all basics for HTML) + templates
+   - [WebDevelopment Basics](https://github.com/BellaMrx/HTML_Guide) - Basics Guide for web developers + templates
+
+
+ * Other:
+   - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
+   - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - only in HTML and CSS with HTML Image map + Tutorial
+   - [Fortune cookie generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
+   - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript
+
 
  * Games:
    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game only in HTML, CSS, JavaScript
@@ -21,12 +30,6 @@
    - [Ping Pong](https://github.com/Projects-Games-HTML-CSS-JS/Ping-Pong) -  game only in HTML, CSS, JavaScript 
    - [Snake](https://github.com/Projects-Games-HTML-CSS-JS/Snake) - game only in HTML, CSS, JavaScript 
    - [Tic Tac Toe](https://github.com/Projects-Games-HTML-CSS-JS/Tic_Tac_Toe) - game only in HTML, CSS, JavaScript 
-
- * Other:
-   - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
-   - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - only in HTML and CSS with HTML Image map + Tutorial
-   - [Fortune cookie generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
-   - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript
 
 
 
