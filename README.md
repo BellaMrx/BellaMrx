@@ -1,6 +1,7 @@
  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella
 
  ![Twitter Follow](https://img.shields.io/twitter/follow/Bella_Mrx?label=Follow%20%40bella_mrx&style=social)
+ ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbella_mrx)
 
  I am a freelance web developer and would like to share my knowledge and continue to learn. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and C++. 
 
