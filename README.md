@@ -12,7 +12,7 @@
 
  ---
 
- ## My GitHub projects:
+ ## my GitHub repos:
  * Tutorials:
    - [HTML Guide](https://github.com/BellaMrx/HTML_Guide) - Detailed guide about HTML5 (all basics for HTML) + templates
    - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
