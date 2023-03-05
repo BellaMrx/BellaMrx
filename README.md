@@ -14,9 +14,10 @@
 
  ## my GitHub repos:
  * Tutorials:
-   - [HTML Guide](https://github.com/BellaMrx/HTML_Guide) - Detailed guide about HTML5 (all basics for HTML) + templates
+   - [CSS Guide](https://github.com/BellaMrx/CSS_Guide) - Detailed guide about CSS (Introduction to CSS, CSS Selectors, Inheritance and the cascade, CSS Box Model, CSS Positioning, Flexbox, Responsive Web Design, CSS Grid Layout, Styling with CSS, Testing and Organizing) 
+   - [HTML Guide](https://github.com/BellaMrx/HTML_Guide) - Detailed guide about HTML5 (all basics for HTML)
    - [HTML Cheat Sheets](https://github.com/BellaMrx/HTML_Cheat_Sheets) - All HTML5 elements and their attributes
-   - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers + templates
+   - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers
 
  * Other:
    - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
