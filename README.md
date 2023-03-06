@@ -24,7 +24,7 @@
    - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - only in HTML and CSS with HTML Image map + Tutorial
    - [Fortune Cookie Generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
    - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript
-   - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - Password Generator in HTML, CSS, JavaScript
+   - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - in HTML, CSS, JavaScript
 
 
  * Games:
