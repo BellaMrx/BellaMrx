@@ -1,15 +1,14 @@
  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella
 
 ## Connect with me  
-<div align="center">
 <a href="https://twitter.com/bella_mrx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/bella_mrx" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+ 
  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAkGGp0QAohAnTTxB3MheqQ?style=social)
-</div>
 
 
 
