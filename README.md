@@ -1,4 +1,4 @@
- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella
+ ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella.
  
  I am a freelance web developer and would like to share my knowledge and continue to learn. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and C++. 
 
