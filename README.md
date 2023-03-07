@@ -24,11 +24,12 @@
    - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers
 
  * Other:
+   - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript   
+   - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - in HTML, CSS, JavaScript
+   - [BinaryCode Translator](https://github.com/Projects-Games-HTML-CSS-JS/Binary_Translator) - Translates text into a binary code - in HTML, CSS, JavaScript
    - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
    - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - only in HTML and CSS with HTML Image map + Tutorial
    - [Fortune Cookie Generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
-   - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript
-   - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - in HTML, CSS, JavaScript
 
 
  * Games:
