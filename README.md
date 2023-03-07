@@ -7,7 +7,8 @@
 <a href="https://www.youtube.com/channel/UCAkGGp0QAohAnTTxB3MheqQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
-https://img.shields.io/twitter/follow/bella_mrx?style=social
+
+![Twitter Follow](https://img.shields.io/twitter/follow/bella_mrx?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAkGGp0QAohAnTTxB3MheqQ?style=social)
 
  I am a freelance web developer and would like to share my knowledge and continue to learn. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and C++. 
