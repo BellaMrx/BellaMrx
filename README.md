@@ -1,6 +1,5 @@
  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella
-
-## Connect with me  
+ 
 <a href="https://twitter.com/bella_mrx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -8,8 +7,6 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/bella_mrx?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAkGGp0QAohAnTTxB3MheqQ?style=social)
 
  I am a freelance web developer and would like to share my knowledge and continue to learn. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and C++. 
 
