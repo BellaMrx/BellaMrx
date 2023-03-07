@@ -8,9 +8,10 @@
 <a href="https://www.youtube.com/user/bella_mrx" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+ ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAkGGp0QAohAnTTxB3MheqQ?style=social)
 </div>
 
- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAkGGp0QAohAnTTxB3MheqQ?style=social)
+
 
  I am a freelance web developer and would like to share my knowledge and continue to learn. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and C++. 
 
