@@ -1,7 +1,8 @@
  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella.
  
- I am a freelance web developer and want to share my knowledge and am always willing to learn new things. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and C++. 
+ I create websites and realize ideas. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5d5c572-4190-4bcb-8c72-f936b718e165/deploy-status)](https://app.netlify.com/sites/bella-mrx/deploys)
 <a href="https://twitter.com/bella_mrx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -18,6 +19,7 @@
 
  ## my GitHub repos:
  * Guides/Tutorials:
+   - [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript, templates and descriptions
    - [Sass and SCSS Basic Guide](https://github.com/BellaMrx/Sass_and_SCSS) - An introduction to the CSS preprocessor Sass
    - [CSS Guide](https://github.com/BellaMrx/CSS_Guide) - Detailed guide about CSS (Introduction to CSS, CSS Selectors, Inheritance and the cascade, CSS Box Model, CSS Positioning, Flexbox, Responsive Web Design, CSS Grid Layout, Styling with CSS, Testing and Organizing) 
    - [HTML Guide](https://github.com/BellaMrx/HTML_Guide) - Detailed guide about HTML5 (all basics for HTML)
