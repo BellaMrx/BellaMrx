@@ -1,8 +1,8 @@
  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella.
  
- I create websites and realize ideas. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. 
+ I create websites and realize ideas. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website [:globe_with_meridians: BellaMrx](https://bella-mrx.netlify.app)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c5d5c572-4190-4bcb-8c72-f936b718e165/deploy-status)](https://bella-mrx.netlify.app) Feel free to visit my website [:globe_with_meridians:](https://bella-mrx.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5d5c572-4190-4bcb-8c72-f936b718e165/deploy-status)](https://bella-mrx.netlify.app)
 
 <a href="https://twitter.com/bella_mrx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
