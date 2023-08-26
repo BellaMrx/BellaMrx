@@ -1,6 +1,6 @@
- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bella.
+ ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Bella.
  
- I create websites and realize ideas. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website [BellaMrx](https://bella-mrx.netlify.app):globe_with_meridians:
+ I create websites and realize ideas. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website [BellaMrx:globe_with_meridians:](https://bella-mrx.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c5d5c572-4190-4bcb-8c72-f936b718e165/deploy-status)](https://bella-mrx.netlify.app)
 
