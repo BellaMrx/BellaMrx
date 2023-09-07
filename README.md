@@ -21,6 +21,7 @@
  ## my GitHub repos:
  * Guides/Tutorials:
    - [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript, templates and descriptions
+   - [Arrays,functions,objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
    - [Sass and SCSS Basic Guide](https://github.com/BellaMrx/Sass_and_SCSS) - An introduction to the CSS preprocessor Sass
    - [CSS Guide](https://github.com/BellaMrx/CSS_Guide) - Detailed guide about CSS (Introduction to CSS, CSS Selectors, Inheritance and the cascade, CSS Box Model, CSS Positioning, Flexbox, Responsive Web Design, CSS Grid Layout, Styling with CSS, Testing and Organizing) 
    - [HTML Guide](https://github.com/BellaMrx/HTML_Guide) - Detailed guide about HTML5 (all basics for HTML)
