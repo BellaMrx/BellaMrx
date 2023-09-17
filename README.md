@@ -27,8 +27,8 @@
    - [Sass and SCSS Basic Guide](https://github.com/BellaMrx/Sass_and_SCSS) - An introduction to the CSS preprocessor Sass
 
   **JavaScript Basics:**
-   1. [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript, templates and descriptions
-   2. [Arrays, functions, objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
+   - 1. [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript, templates and descriptions
+   - 2. [Arrays, functions, objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
 
 
  * Other:
