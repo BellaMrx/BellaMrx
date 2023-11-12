@@ -30,18 +30,24 @@
     1. [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript
     2. [Arrays, functions, objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
     3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) -  Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
+    4. [Introduction to Web APIs](https://github.com/BellaMrx/JavaScript_Introduction-To-Web-APIs) -  Introduction to Web APIs: Video and Audio API, Canvas 2D API, Geolocation API, Drag & Drop API, Offline Data, Web Workers, Server-Sent Events...
 
 
  * Other:
+   - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Watch the sound...
+   - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar
+   - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation only in HTML, CSS
    - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript   
    - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - in HTML, CSS, JavaScript
    - [BinaryCode Translator](https://github.com/Projects-Games-HTML-CSS-JS/Binary_Translator) - Translates text into a binary code - in HTML, CSS, JavaScript
+   - [Code in the bugs](https://github.com/BellaMrx/Code_in_the_bugs) - CSS-Animation - Bugs everywhere
    - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
    - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - only in HTML and CSS with HTML Image map + Tutorial
    - [Fortune Cookie Generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
 
 
  * Games:
+   - [Rock, Paper, Scissors, Lizard, Spock](https://github.com/BellaMrx/rock_paper_scissor_lizard_spock) - game only in HTML, CSS, JavaScript
    - [Breakout](https://github.com/Projects-Games-HTML-CSS-JS/Breakout) - game only in HTML, CSS, JavaScript 
    - [Ping Pong](https://github.com/Projects-Games-HTML-CSS-JS/Ping-Pong) -  game only in HTML, CSS, JavaScript 
    - [Snake](https://github.com/Projects-Games-HTML-CSS-JS/Snake) - game only in HTML, CSS, JavaScript 
