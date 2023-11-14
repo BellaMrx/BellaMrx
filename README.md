@@ -2,11 +2,12 @@
  
  I create websites and realize ideas. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/)
 
-<iframe src="https://github.com/sponsors/BellaMrx/button" title="Sponsor BellaMrx" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 <a href="https://twitter.com/bella_mrx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+
+<iframe src="https://github.com/sponsors/BellaMrx/button" title="Sponsor BellaMrx" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
  ---
  
