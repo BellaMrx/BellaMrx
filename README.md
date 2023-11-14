@@ -7,8 +7,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<iframe src="https://github.com/sponsors/BellaMrx/button" title="Sponsor BellaMrx" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
  ---
  
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
