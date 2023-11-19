@@ -1,6 +1,6 @@
  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Bella.
  
- I create websites and realize ideas. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/)
+ I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/)
 
 
 <a href="https://twitter.com/bella_mrx" target="_blank">
@@ -21,13 +21,14 @@
    - [HTML Cheat Sheets](https://github.com/BellaMrx/HTML_Cheat_Sheets) - All HTML5 elements and their attributes
    - [CSS Guide](https://github.com/BellaMrx/CSS_Guide) - Detailed guide about CSS (Introduction to CSS, CSS Selectors, Inheritance and the cascade, CSS Box Model, CSS Positioning, Flexbox, Responsive Web Design, CSS Grid Layout, Styling with CSS, Testing and Organizing) 
    - [Sass and SCSS Basic Guide](https://github.com/BellaMrx/Sass_and_SCSS) - An introduction to the CSS preprocessor Sass
+   - [The Bootstrap framework](https://github.com/BellaMrx/The_Bootstrap_framework) - Introduction to the use of Bootstrap 
 
   * **JavaScript Basics:**
     1. [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript
     2. [Arrays, functions, objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
-    3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) -  Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
-    4. [Introduction to Web APIs](https://github.com/BellaMrx/JavaScript_Introduction-To-Web-APIs) -  Introduction to Web APIs: Video and Audio API, Canvas 2D API, Geolocation API, Drag & Drop API, Offline Data, Web Workers, Server-Sent Events...
-
+    3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) - Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
+    4. [Introduction to Web APIs](https://github.com/BellaMrx/JavaScript_Introduction-To-Web-APIs) - Introduction to Web APIs: Video and Audio API, Canvas 2D API, Geolocation API, Drag & Drop API, Offline Data, Web Workers, Server-Sent Events...
+    5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
 
  * Other:
    - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Watch the sound...
