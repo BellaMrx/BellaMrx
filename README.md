@@ -32,6 +32,7 @@
 
  * Other:
    - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Watch the sound...
+   - [Autohotkeys for MIDI Controller/Keyboard](https://github.com/BellaMrx/Autohotkeys_for_MIDI_Keyboard) - reprogram MIDI keyboard with Autohotkey
    - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar
    - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation only in HTML, CSS
    - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript   
