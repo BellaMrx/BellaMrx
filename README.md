@@ -10,7 +10,7 @@
  ---
  
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-logo-only-letter.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="JavaScript Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://www.cdnlogo.com/logos/p/79/php.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="JavaScript Logo" width="50" height="50"/> 
 
  ---
 
@@ -29,9 +29,11 @@
     3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) - Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
     4. [Introduction to Web APIs](https://github.com/BellaMrx/JavaScript_Introduction-To-Web-APIs) - Introduction to Web APIs: Video and Audio API, Canvas 2D API, Geolocation API, Drag & Drop API, Offline Data, Web Workers, Server-Sent Events...
     5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
+    6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
 
  * Other:
    - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Watch the sound...
+   - [Simple calculator](https://github.com/BellaMrx/Calculator_React) - Simple calculator build with ReactJS
    - [Autohotkeys for MIDI Controller/Keyboard](https://github.com/BellaMrx/Autohotkeys_for_MIDI_Keyboard) - reprogram MIDI keyboard with Autohotkey
    - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar
    - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation only in HTML, CSS
