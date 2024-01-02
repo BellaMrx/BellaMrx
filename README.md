@@ -34,7 +34,7 @@
  * Other:
    - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Watch the sound...
    - [Simple calculator](https://github.com/BellaMrx/Calculator_React) - Simple calculator build with ReactJS
-   - [Autohotkeys for MIDI Controller/Keyboard](https://github.com/BellaMrx/Autohotkeys_for_MIDI_Keyboard) - reprogram MIDI keyboard with Autohotkey
+   - [ToDo-list](https://github.com/BellaMrx/ToDoList_React) - ToDo list build with ReactJS
    - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar
    - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation only in HTML, CSS
    - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript   
@@ -44,7 +44,7 @@
    - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
    - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - only in HTML and CSS with HTML Image map + Tutorial
    - [Fortune Cookie Generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
-
+   - [Autohotkeys for MIDI Controller/Keyboard](https://github.com/BellaMrx/Autohotkeys_for_MIDI_Keyboard) - reprogram MIDI keyboard with Autohotkey
 
  * Games:
    - [Rock, Paper, Scissors, Lizard, Spock](https://github.com/BellaMrx/rock_paper_scissor_lizard_spock) - game only in HTML, CSS, JavaScript
