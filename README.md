@@ -10,7 +10,7 @@
  ---
  
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="JavaScript Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="JavaScript Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="JavaScript Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="JavaScript Logo" width="50" height="50"/>
 
  ---
 
@@ -32,27 +32,27 @@
     6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
 
  * Other:
-   - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Watch the sound...
+   - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Simple music player with graphic analyser - build with HTML, CSS, JavaScript
    - [Simple calculator](https://github.com/BellaMrx/Calculator_React) - Simple calculator build with ReactJS
    - [ToDo-list](https://github.com/BellaMrx/ToDoList_React) - ToDo list build with ReactJS
-   - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar
-   - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation only in HTML, CSS
+   - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar - build with HTML, CSS, JavaScript
+   - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation build with HTML, CSS
    - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript   
-   - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - in HTML, CSS, JavaScript
-   - [BinaryCode Translator](https://github.com/Projects-Games-HTML-CSS-JS/Binary_Translator) - Translates text into a binary code - in HTML, CSS, JavaScript
-   - [Code in the bugs](https://github.com/BellaMrx/Code_in_the_bugs) - CSS-Animation - Bugs everywhere
-   - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, only HTML, CSS, JavaScript
-   - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - only in HTML and CSS with HTML Image map + Tutorial
-   - [Fortune Cookie Generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - only in HTML, CSS, JavaScript 
+   - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - build with HTML, CSS, JavaScript
+   - [BinaryCode Translator](https://github.com/Projects-Games-HTML-CSS-JS/Binary_Translator) - Translates text into a binary code - build with HTML, CSS, JavaScript
+   - [Code in the bugs](https://github.com/BellaMrx/Code_in_the_bugs) - CSS-Animation - Bugs everywhere build with HTML, CSS
+   - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, build with HTML, CSS, JavaScript
+   - [Mood Cube](https://github.com/Projects-Games-HTML-CSS-JS/Mood_Cube) - HTML Image map + Tutorial
+   - [Fortune Cookie Generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - build with HTML, CSS, JavaScript 
    - [Autohotkeys for MIDI Controller/Keyboard](https://github.com/BellaMrx/Autohotkeys_for_MIDI_Keyboard) - reprogram MIDI keyboard with Autohotkey
 
  * Games:
-   - [Rock, Paper, Scissors, Lizard, Spock](https://github.com/BellaMrx/rock_paper_scissor_lizard_spock) - game only in HTML, CSS, JavaScript
-   - [Breakout](https://github.com/Projects-Games-HTML-CSS-JS/Breakout) - game only in HTML, CSS, JavaScript 
-   - [Ping Pong](https://github.com/Projects-Games-HTML-CSS-JS/Ping-Pong) -  game only in HTML, CSS, JavaScript 
-   - [Snake](https://github.com/Projects-Games-HTML-CSS-JS/Snake) - game only in HTML, CSS, JavaScript 
-   - [Tic Tac Toe](https://github.com/Projects-Games-HTML-CSS-JS/Tic_Tac_Toe) - game only in HTML, CSS, JavaScript
-   - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game only in HTML, CSS, JavaScript 
+   - [Rock, Paper, Scissors, Lizard, Spock](https://github.com/BellaMrx/rock_paper_scissor_lizard_spock) - game build with HTML, CSS, JavaScript
+   - [Breakout](https://github.com/Projects-Games-HTML-CSS-JS/Breakout) - game build with HTML, CSS, JavaScript 
+   - [Ping Pong](https://github.com/Projects-Games-HTML-CSS-JS/Ping-Pong) -  game build with HTML, CSS, JavaScript 
+   - [Snake](https://github.com/Projects-Games-HTML-CSS-JS/Snake) - game build with HTML, CSS, JavaScript 
+   - [Tic Tac Toe](https://github.com/Projects-Games-HTML-CSS-JS/Tic_Tac_Toe) - game build with HTML, CSS, JavaScript
+   - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game build with HTML, CSS, JavaScript 
 
 
 
