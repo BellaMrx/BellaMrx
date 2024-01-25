@@ -37,7 +37,7 @@
    - [ToDo-list](https://github.com/BellaMrx/ToDoList_React) - ToDo list build with ReactJS
    - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar - build with HTML, CSS, JavaScript
    - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation build with HTML, CSS
-   - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator only in HTML, CSS, JavaScript   
+   - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator build with HTML, CSS, JavaScript   
    - [Password Generator](https://github.com/Projects-Games-HTML-CSS-JS/Password_Generator) - build with HTML, CSS, JavaScript
    - [BinaryCode Translator](https://github.com/Projects-Games-HTML-CSS-JS/Binary_Translator) - Translates text into a binary code - build with HTML, CSS, JavaScript
    - [Code in the bugs](https://github.com/BellaMrx/Code_in_the_bugs) - CSS-Animation - Bugs everywhere build with HTML, CSS
