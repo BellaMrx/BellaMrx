@@ -1,6 +1,6 @@
  ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Bella.
  
- I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/)
+ I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/) <img src="images/favicon-256x256.png" width="20px">
 
 
 <a href="https://twitter.com/bella_mrx" target="_blank">
@@ -31,6 +31,7 @@
    5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
    6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
 
+ #### Learn more about JavaScript at [book-of-coding.com](https://book-of-coding.com/) <img src="images/favicon-256x256.png" width="20px">
  ---
 
  ### Projects 
@@ -41,6 +42,7 @@
    - [BinaryCode Translator](https://github.com/Projects-Games-HTML-CSS-JS/Binary_Translator) - Translates text into a binary code - build with HTML, CSS, JavaScript
    - [Stopwatch](https://github.com/BellaMrx/Stopwatch) - build with HTML, CSS, JavaScript
    - [Fortune Cookie Generator](https://github.com/BellaMrx/Fortune_Cookie_Generator) - build with HTML, CSS, JavaScript 
+   - [Meme Generator](https://github.com/BellaMrx/Meme_Generator) - build with HTML, CSS, JavaScript
    - [Calculator](https://github.com/Projects-Games-HTML-CSS-JS/Calculator_simple) - simple calculator build with HTML, CSS, JavaScript
    - [Code in the bugs](https://github.com/BellaMrx/Code_in_the_bugs) - CSS-Animation - Bugs everywhere build with HTML, CSS
    - [Click me, If you can](https://github.com/BellaMrx/Click-me_If-you-can) - a stubborn button, build with HTML, CSS, JavaScript
@@ -70,8 +72,8 @@
  ### Other
    - [Autohotkeys for MIDI Controller/Keyboard](https://github.com/BellaMrx/Autohotkeys_for_MIDI_Keyboard) - reprogram MIDI keyboard with Autohotkey
 
+ ---
  #### On my Twitter account [@bella_mrx](https://twitter.com/bella_mrx) you can find more useful stuff about web development.
-
  ---
 
  ## &#x1f4c8; My GitHub Stats
