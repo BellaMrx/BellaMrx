@@ -23,13 +23,13 @@
    - [Sass and SCSS Basic Guide](https://github.com/BellaMrx/Sass_and_SCSS) - An introduction to the CSS preprocessor Sass
    - [The Bootstrap framework](https://github.com/BellaMrx/The_Bootstrap_framework) - Introduction to the use of Bootstrap 
 
-  ### JavaScript Basics:
-    1. [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript
-    2. [Arrays, functions, objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
-    3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) - Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
-    4. [Introduction to Web APIs](https://github.com/BellaMrx/JavaScript_Introduction-To-Web-APIs) - Introduction to Web APIs: Video and Audio API, Canvas 2D API, Geolocation API, Drag & Drop API, Offline Data, Web Workers, Server-Sent Events...
-    5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
-    6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
+ ### JavaScript Basics:
+   1. [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript
+   2. [Arrays, functions, objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
+   3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) - Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
+   4. [Introduction to Web APIs](https://github.com/BellaMrx/JavaScript_Introduction-To-Web-APIs) - Introduction to Web APIs: Video and Audio API, Canvas 2D API, Geolocation API, Drag & Drop API, Offline Data, Web Workers, Server-Sent Events...
+   5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
+   6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
 
  * Other:
    - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Simple music player with graphic analyser - build with HTML, CSS, JavaScript
