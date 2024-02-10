@@ -31,6 +31,8 @@
    5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
    6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
 
+ ---
+
  ### Projects 
  #### JavaScript, HTML, CSS:
    - [Audio Analyser](https://github.com/BellaMrx/audio_analyser) - Simple music player with graphic analyser - build with HTML, CSS, JavaScript
@@ -46,6 +48,8 @@
    - [Animated pop-up navbar](https://github.com/BellaMrx/animated_pop-up_navbar) - Animated pop-up navbar - build with HTML, CSS, JavaScript
    - [follow_X](https://github.com/BellaMrx/follow_X) - Simple text animation build with HTML, CSS
 
+ ---
+
  ### Games
  #### JavaScript, HTML, CSS:
    - [Rock, Paper, Scissors, Lizard, Spock](https://github.com/BellaMrx/rock_paper_scissor_lizard_spock) - game build with HTML, CSS, JavaScript
@@ -55,12 +59,15 @@
    - [Tic Tac Toe](https://github.com/Projects-Games-HTML-CSS-JS/Tic_Tac_Toe) - game build with HTML, CSS, JavaScript
    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game build with HTML, CSS, JavaScript 
 
+ ---
+
  ### ReactJS Projects:
    - [Simple calculator](https://github.com/BellaMrx/Calculator_React) - Simple calculator build with ReactJS
    - [ToDo-list](https://github.com/BellaMrx/ToDoList_React) - ToDo list build with ReactJS
 
+ ---
 
- #### Other
+ ### Other
    - [Autohotkeys for MIDI Controller/Keyboard](https://github.com/BellaMrx/Autohotkeys_for_MIDI_Keyboard) - reprogram MIDI keyboard with Autohotkey
 
  #### On my Twitter account [@bella_mrx](https://twitter.com/bella_mrx) you can find more useful stuff about web development.
