@@ -1,4 +1,4 @@
- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Bella.
+ ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Bella.
  
  I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/)
 
@@ -15,7 +15,7 @@
  ---
 
  ## my GitHub repos:
- * Guides/Tutorials:
+ ### Guides/Tutorials:
    - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers
    - [HTML Guide](https://github.com/BellaMrx/HTML_Guide) - Detailed guide about HTML5 (all basics for HTML)
    - [HTML Cheat Sheets](https://github.com/BellaMrx/HTML_Cheat_Sheets) - All HTML5 elements and their attributes
