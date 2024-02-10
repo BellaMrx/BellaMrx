@@ -14,7 +14,7 @@
 
  ---
 
- ## my GitHub repos:
+ ## my GitHub repos
  ### Guides/Tutorials:
    - [WebDevelopment Basics](https://github.com/BellaMrx/WebDevelopment_Basics) - Basics Guide for web developers
    - [HTML Guide](https://github.com/BellaMrx/HTML_Guide) - Detailed guide about HTML5 (all basics for HTML)
@@ -23,7 +23,7 @@
    - [Sass and SCSS Basic Guide](https://github.com/BellaMrx/Sass_and_SCSS) - An introduction to the CSS preprocessor Sass
    - [The Bootstrap framework](https://github.com/BellaMrx/The_Bootstrap_framework) - Introduction to the use of Bootstrap 
 
-  * **JavaScript Basics:**
+  ### JavaScript Basics:
     1. [JS Introduction](https://github.com/BellaMrx/JS_introduction) - An introduction to JavaScript
     2. [Arrays, functions, objects in JS](https://github.com/BellaMrx/Arrays_functions_objects_in_JS) - Introduction: Arrays, functions and objects in JavaScript
     3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) - Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
