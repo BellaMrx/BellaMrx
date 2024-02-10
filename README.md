@@ -1,6 +1,6 @@
  ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Bella.
  
- I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/) <img src="images/favicon-256x256.png" width="10px">
+ I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/) <img src="images/logoBoC.png" width="15px">
 
 
 <a href="https://twitter.com/bella_mrx" target="_blank">
@@ -31,7 +31,7 @@
    5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
    6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
 
- #### Learn more about JavaScript at [book-of-coding.com](https://book-of-coding.com/) <img src="images/favicon-256x256.png" width="10px">
+ #### Learn more about JavaScript at [book-of-coding.com](https://book-of-coding.com/) <img src="images/logoBoC.png" width="15px">
  ---
 
  ### Projects 
