@@ -1,6 +1,6 @@
  ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Bella.
  
- I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/) <img src="images/favicon-256x256.png" width="20px">
+ I create websites, implement ideas and offer software solutions. And I share my knowledge with the world. I have experience in HTML, CSS, JavaScript, Node.js, React, PHP and MySQL, Python and I am always ready to learn new things. Feel free to visit my website :globe_with_meridians: [book-of-coding.com](https://book-of-coding.com/) <img src="images/favicon-256x256.png" width="20px" padding-top="5px">
 
 
 <a href="https://twitter.com/bella_mrx" target="_blank">
