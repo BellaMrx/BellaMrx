@@ -14,8 +14,8 @@
 
  ---
 
- ## LaunchFree.net
- - [LaunchFree_SourceCodes](https://github.com/BellaMrx/LaunchFree_SourceCodes) - Source codes from [LaunchFree.net](https://launchfree.net/)
+ ## LaunchFree.netlify.app
+ - [LaunchFree_SourceCodes](https://github.com/BellaMrx/LaunchFree_SourceCodes) - Source codes from [LaunchFree.netlify.app](https://launchfree.netlify.app/)
 
  ## my GitHub repos
  ### Guides/Tutorials:
@@ -34,7 +34,7 @@
    5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
    6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
 
- #### Learn more about JavaScript at [LaunchFree.net](https://launchfree.net/sites/book_of_coding/js1.html) <img src="images/logoBoC.png" width="15px">
+ #### Learn more about JavaScript at [LaunchFree.netlify.app](https://launchfree.netlify.app/sites/book_of_coding/js1.html) <img src="images/logoBoC.png" width="15px">
  ---
 
  ### Projects 
