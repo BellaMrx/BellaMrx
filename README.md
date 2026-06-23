@@ -65,11 +65,11 @@
    - [Motocross Rally](https://github.com/BellaMrx/Motocross_Rally) - game build with HTML, CSS, JavaScript 
 
  ---
-
+<!--  
  ### ReactJS Projects:
    - [Simple calculator](https://github.com/BellaMrx/Calculator_React) - Simple calculator build with ReactJS
    - [ToDo-list](https://github.com/BellaMrx/ToDoList_React) - ToDo list build with ReactJS
-
+-->
  ---
 
  ### Other
