@@ -32,7 +32,7 @@
    3. [DOM - Document Object Model](https://github.com/BellaMrx/DOM_Document-Object-Model) - Introduction to the **DOM** and the **DOM** manipulation - Change web pages dynamically with JavaScript
    4. [Introduction to Web APIs](https://github.com/BellaMrx/JavaScript_Introduction-To-Web-APIs) - Introduction to Web APIs: Video and Audio API, Canvas 2D API, Geolocation API, Drag & Drop API, Offline Data, Web Workers, Server-Sent Events...
    5. [An introduction to Ajax and jQuery](https://github.com/BellaMrx/JavaScript_Introduction_to_Ajax_and_jQuery) - An introduction to Ajax and jQuery programming   
-   6. [Basics of ReactJS](https://github.com/BellaMrx/Basics_of_React) - Introduction to the basics of React
+
 
  #### Learn more about JavaScript at [LaunchFree.netlify.app](https://launchfree.netlify.app/sites/book_of_coding/js1.html) <img src="images/logoBoC.png" width="15px">
  ---
